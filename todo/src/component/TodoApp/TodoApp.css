@@ -1,0 +1,63 @@
+.input-section{
+    background-color: rgb(218, 254, 182);
+    padding: 2%;
+    margin-left: 32%;
+    margin-right: 33%;
+    text-align: center;
+    
+    border: 23%;
+    border-style: solid;
+    border-color: rgb(56, 97, 14) ;
+    
+}
+
+h1{
+    margin-top: 7%;
+    text-align: center;
+    color: rgb(56, 97, 14);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input{
+    background-color: rgb(235, 245, 225);
+
+}
+.input-section input{
+    border-radius: 5px;
+    border: 1px solid silver;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+button{
+    background-color: rgb(56, 97, 14) ;
+    color: white;
+}
+
+ul{
+background-color: rgb(36, 60, 12);
+color: white;
+padding: 2%;
+    margin-left: 32%;
+    margin-right: 33%;
+   
+}
+
+li{
+    padding: 4%;
+    border: 2px;
+    /* border-style: solid; */
+    border-radius: 5px;
+    border: 1px solid silver;
+    box-sizing: border-box;
+    background-color: rgb(235, 245, 225);
+    color: rgb(36, 60, 12);
+    margin-top: 4%;
+
+}
+  
+i{
+    color:rgb(36, 60, 12); 
+    text-align: right;
+    float: right;
+}
